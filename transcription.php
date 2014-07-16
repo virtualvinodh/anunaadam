@@ -143,8 +143,8 @@ the basic features that are absolutely necessary for the language. </p>
 
 <p>The broad transcription uses several fricatives such as /ð/, /β/, /x/ and /ɣ/. 
 I am not quite sure I agree with the identification of all these phones. I myself find it hard 
-producing /ð/, /ɣ/ and other fricatives when learning other languages. Though Clayton in [3] 
-recognizes some fricatives in the languages. To simplify things, I have replaced them
+producing /ð/, /ɣ/ and other fricatives when learning other languages. But even Clayton (1934)
+recognizes some fricatives in the language. To simplify things, I have replaced them
 with the equivalent voiced plosives.
 Also, the schwa /ə/ is analyzed as being allophonic with a back vowel /ʌ/. 
 But I have fused them to /ə/.</p>
