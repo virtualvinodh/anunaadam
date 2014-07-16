@@ -1,0 +1,194 @@
+@media screen, print {
+
+body {
+	font: 85% "Tahoma", sans-serif;
+	margin: 0px;
+}
+
+@font-face {
+  font-family: Andika;
+  src: url(/fonts/Andika-R.ttf);
+}
+
+@font-face {
+  font-family: Dejavu Sans;
+  src: url(/fonts/DejaVuSans.ttf);
+}
+
+@font-face {
+  font-family: Dejavu Serif;
+  src: url(/fonts/DejaVuSerif.ttf);
+}
+
+@font-face {
+  font-family: Charis SIL;
+  src: url(/fonts/CharisSIL-R.ttf);
+}
+
+@font-face {
+  font-family: Gentium Plus;
+  src: url(/fonts/GentiumPlus-R.ttf);
+}
+
+
+@font-face {
+  font-family: Lucida Sans Unicode;
+  src: url(/fonts/lsansuni.ttf);
+}
+
+@font-face {
+  font-family: e-Grantamil;
+  src: url(/fonts/e-Grantamil.ttf);
+}
+
+p,ul {
+
+line-height:22.5px;
+
+}
+
+.quote {
+
+text-align:left;
+margin-left:12.5px;
+color:grey;
+}
+
+
+}
+
+@media screen {
+
+.menu-title {
+
+font-style:italic;
+
+}
+
+
+.ui-tooltip
+{
+    font-family: Dejavu Sans, Tahoma;
+}
+
+.sidemenu-left {
+
+font: 100% "Tahoma", sans-serif;
+float:left;
+position:relative;
+width:150px;
+margin-left:10px;
+
+
+}
+
+.sidemenu-right {
+
+font: 100% "Tahoma", sans-serif;
+float:right;
+position:relative;
+width:150px;
+margin-right:10px;
+
+padding:10px;
+border:1px solid #a6c9e2;
+border-radius:5px;
+
+}
+
+.container {
+position:inline;
+margin-left: 170px;
+margin-right: 190px;	
+
+}
+
+
+h1 {
+
+color: #1d3a4e;
+
+}
+
+.divider {
+
+color: #aa3d2c;
+
+}
+
+.head-sub {
+
+color: #217bc0;
+
+}
+
+#ipa-text {
+
+float:left;
+position:relative;
+width:100%;
+font-family: Dejavu Sans, Tahoma;
+font-size: 17px;
+margin-top:20px;
+margin-bottom:30px;
+background-color:#F5F3F3;
+line-height:35px;
+
+}
+
+.inp-text {
+
+
+}
+
+#txtbox {
+border: 3px solid #a6c9e2;
+}
+
+.footnote {
+
+text-align:center;
+color:grey;
+margin-left:160px;
+margin-right:170px;
+font-size:100%;
+
+}
+
+.grantha-quote {
+
+color:grey;
+font-family:e-Grantamil;
+font-size:150%;
+
+}
+
+.container-cont {
+margin-left: 170px;
+margin-right: 20px;	
+margin-bottom: 30px;
+border: 2px solid #a6c9e2;
+border-radius:25px;
+padding-left:25px;
+}
+
+}
+
+@media print {
+
+.sidemenu-left, .sidemenu-right, .footnote, .inp-text {
+display:none;
+
+}
+
+#ipa-text {
+
+font-family: Dejavu Sans, Tahoma;
+font-size: 17px;
+margin-top:20px;
+line-height:35px;
+
+}
+
+}
+
