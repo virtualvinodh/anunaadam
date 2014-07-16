@@ -141,7 +141,7 @@ work is quite detailed and meticulous.
 <p>I have tried to cut down the unnecessary details a bit and have retain only
 the basic features that are absolutely necessary for the language. </p>
 
-<p>The broad transcription uses several fricatives such as /ð/, /β/, /x/ and /ɣ/. 
+<p>The narrow transcription uses several fricatives such as /ð/, /β/, /x/ and /ɣ/. 
 I am not quite sure I agree with the identification of all these phones. I myself find it hard 
 producing /ð/, /ɣ/ and other fricatives when learning other languages. But even Clayton (1934)
 recognizes some fricatives in the language. To simplify things, I have replaced them
