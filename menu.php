@@ -98,7 +98,7 @@ $rightmenu = '
 <span class="menu-title uiTran">'.lanconTrnL("பிற எழுத்துமுறைகள்",$_SESSION['lang']).'</span>
 <select style="margin-bottom:15px;margin-top:10px;" id="lang-trans">';
 
-if($_SESSION['lang'] == "ta") {
+if($_SESSION['lang'] == "ta" || !isset($_SESSION['lang'])) {
 
 $rightmenu .= '
  
