@@ -103,7 +103,7 @@ So, I have retained /x/ as the pronunciation for &laquo;ḵ&raquo;.</p>
 <p>Lately, the difference between &laquo;ṉ&raquo; /n/ - &laquo;ṇ&raquo; /ɳ/
 & &laquo;l&raquo; /l/ -  &laquo;ḷ&raquo; /ɭ/ is also being lost
 with the latter phonemes getting merged with the former. This is quite evident
-by the informal names (two looped n vs three looped n and small l vs big l) by which are they are referred to be distinguished when "spelling out"
+by the informal names (two looped n vs three looped n and small l vs big l) by whichthey are referred to be distinguished when "spelling out"
 words. In
 many regions,  &laquo;ḻ&raquo; /ɻ/ is getting merged with &laquo;ḷ&raquo; /ɭ/. This has resulted in
 hypercorrecting &laquo;ḷ&raquo; with &laquo;ḻ&raquo; and vice-versa in written Tamil.</p>
