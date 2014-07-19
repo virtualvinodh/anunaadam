@@ -17,6 +17,7 @@
  */
 
 
+/* Convert Tamil unicode to intermediate romanized encoding */
 
 function tam2lat($text)
 {

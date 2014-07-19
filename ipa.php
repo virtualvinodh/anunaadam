@@ -17,7 +17,10 @@
  */
 
 
-function ipa($text)
+/* Convert Tamil text into romanized encoding using transliteratoin.php before apply any 
+of the functions below */
+
+function ipa($text) /* Generates narrow transcription of Tamil texts */
 
 {
 
@@ -28,6 +31,9 @@ $text=" ".$text." ";
 $text = preg_replace("/([\;\,\.\!\?\"\'\"\(\)])/"," $1 ",$text);
 // $text = preg_replace("/(?<=[\w])([\;\,\.\!\?\"\'\"\(\)])/"," $1 ",$text);
 // $text = preg_replace("/([\;\,\.\!\?\"\'\"\(\)])(?=[\w])/"," $1 ",$text);
+
+# The comments below refer to the implementation of transcription rules as described in the
+# book - Panniru Thirumurai Olipeyarppu by Punal K Murugaiyan
 
 /* Dipthongs */
 
@@ -344,6 +350,8 @@ $text=ltrim($text);
 return $text;
 
 }
+
+/* Converts a narrow transcription to a broad transcription */
 
 function broad($text)
 {
